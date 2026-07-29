@@ -59,6 +59,10 @@ Update packages:
 sudo apt update
 ```
 
+```bash
+git clone https://github.com/ghost-1920/Dos-Ddos_Launcher.git
+```
+
 Install required tools:
 
 ```bash
@@ -72,7 +76,7 @@ sudo apt install -y metasploit-framework hping3
 Navigate to the project directory:
 
 ```bash
-cd /path/to/project
+ cd Dos-Ddos_Launcher && cd TOOL 
 ```
 
 (Optional) Make the script executable:
