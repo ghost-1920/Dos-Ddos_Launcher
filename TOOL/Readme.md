@@ -257,7 +257,7 @@ Common adjustments include:
 
 # Disclaimer
 
-This software is provided **solely for educational purposes and authorized security testing** within isolated laboratory environments.
+This Tool is provided **solely for educational purposes and authorized security testing** within isolated laboratory environments.
 
 The author assumes **no responsibility** for misuse, unauthorized testing, or damage resulting from improper use. Always obtain explicit permission before conducting any security assessment.
 
